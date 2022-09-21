@@ -20,15 +20,15 @@
 
 <p><img align="cneter" src="https://github-readme-stats.vercel.app/api/top-langs?username=imark00&show_icons=true&locale=en&layout=compact" alt="imark00" /></p>
 
+## 📊 GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imark00&show_icons=true&locale=en" alt="imark00" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imark00&" alt="imark00" /></p>
+
 ## 💬 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/mark-armah-kuevi-08081b164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark armah-kuevi" height="30" width="40" /></a>
 <a href="https://twitter.com/imark_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imark_00" height="30" width="40" /></a>
 </p>
-
-## 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imark00&show_icons=true&locale=en" alt="imark00" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imark00&" alt="imark00" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imark00&label=Profile%20views&color=0e75b6&style=flat" alt="imark00" /> </p>
