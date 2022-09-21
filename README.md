@@ -1,8 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Mark</h1> -->
-<!-- ## Hi I'm Mark -->
-<div>
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="72px">, I'm Mark</h1>
-</div>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mark</h1>
 
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
