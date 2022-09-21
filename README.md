@@ -1,9 +1,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Mark</h1> -->
-## Hi I'm Mark
-
+<!-- ## Hi I'm Mark -->
 <div>
-  <h1 align="center">Hi 👋, I'm Mark <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="72px"></h1>
-  </div>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="72px">, I'm Mark</h1>
+</div>
 
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
@@ -21,7 +20,8 @@
 - ⚡ Fun fact **I like football ⚽, gaming 🎮 and exploring places 🧐**
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/mark-armah-kuevi-08081b164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mark armah-kuevi" height="30" width="40" /></a>
 <a href="https://twitter.com/imark_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imark_00" height="30" width="40" /></a>
