@@ -1,5 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Mark</h1> -->
 ### Hi I'm Mark
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="72px">
 
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
