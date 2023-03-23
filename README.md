@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mark</h1>
 
 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Python**
 
 - 👯 I’m looking to collaborate on any **Open-Source projects**
 
