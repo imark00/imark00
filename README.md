@@ -32,10 +32,10 @@
 
 <!-- <p><img align="cneter" src="https://github-readme-stats.vercel.app/api/top-langs?username=imark00&show_icons=true&locale=en&layout=compact" alt="imark00" /></p> -->
 
-## 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imark00&show_icons=true&locale=en" alt="imark00" /></p>
+<!-- ## 📊 GitHub Stats -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imark00&show_icons=true&locale=en" alt="imark00" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imark00&" alt="imark00" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imark00&" alt="imark00" /></p> -->
 
 ## 💬 Connect with me
 <p align="left">
