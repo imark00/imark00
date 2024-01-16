@@ -37,6 +37,11 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imark00&" alt="imark00" /></p> -->
 
+<h3 align="left">Some stats 😆✨:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imark00&show_icons=true&locale=en" alt="imark00" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200" src="https://github-profile-trophy.vercel.app/?username=imark00" alt="imark00" /></a> </p>
+
+
 ## 💬 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/mark-armah-kuevi-08081b164" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mark armah-kuevi" /></a>
