@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marksonline247@gmail.com**
 
-- 📄 Know about my [experiences](https://app.flowcv.com/resume-feedback/RgIitveK3wO3)
+<!-- - 📄 Know about my [experiences](https://app.flowcv.com/resume-feedback/RgIitveK3wO3) -->
 
 - 🤔 Interests include **Trends in technology**
 
